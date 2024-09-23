@@ -33,4 +33,4 @@ The maze files must follow these rules:
 (Replace output_mazefile with your desired file name and replace width and height with your preferred dimensions) 
 
 # Documentation
-You can find a detailed report about the maze genertor here in my [Powerpoint](https://leeds365-my.sharepoint.com/:p:/g/personal/sc23ss2_leeds_ac_uk/EXXVEnmYD2lDp3KTpl0VbbcBouivRl5WdrkAw0T5oXBJWg)
+You can find a detailed report about the maze genertor here in my [Powerpoint](https://leeds365-my.sharepoint.com/:p:/g/personal/sc23ss2_leeds_ac_uk/EXXVEnmYD2lDp3KTpl0VbbcBzi2Mix6yS7spXsxLK-I-tQ)
